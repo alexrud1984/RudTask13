@@ -1,0 +1,12 @@
+D:\Projects\RudTask10\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+D:\Projects\RudTask10\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+D:\Projects\RudTask10\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+D:\Projects\RudTask10\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csprojResolveAssemblyReference.cache
+D:\Projects\RudTask10\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+D:\Projects\RudTask10\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
+D:\Projects\RudTask13\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+D:\Projects\RudTask13\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+D:\Projects\RudTask13\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
+D:\Projects\RudTask13\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+D:\Projects\RudTask13\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+D:\Projects\RudTask13\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csprojResolveAssemblyReference.cache
